@@ -3,4 +3,5 @@
   (lib (name "Capacitor")(type "KiCad")(uri "${KIPRJMOD}/Capacitor.pretty")(options "")(descr ""))
   (lib (name "Ic")(type "KiCad")(uri "${KIPRJMOD}/Ic.pretty")(options "")(descr ""))
   (lib (name "Diodes")(type "KiCad")(uri "${KIPRJMOD}/Diodes.pretty")(options "")(descr ""))
+  (lib (name "Terminal")(type "KiCad")(uri "${KIPRJMOD}/Terminal.pretty")(options "")(descr ""))
 )
