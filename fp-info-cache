@@ -1,4 +1,4 @@
-22351660728155942
+22360158825480045
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2589,6 +2589,20 @@ Gauge Massstab 100mm SilkScreenTop Type 2
 0
 0
 0
+Capacitor
+EEE1AA101SP
+SMD_Lytic_D
+Capacitor Polarised
+0
+2
+2
+Capacitor
+EEE1AA220WR
+SMD_Lytic_B
+Capacitor Polarised
+0
+2
+2
 Capacitor_SMD
 CP_Elec_3x5.3
 SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
@@ -54193,6 +54207,20 @@ Vishay KBU rectifier diode bridge
 0
 4
 4
+Diodes
+DIOM5226X240N
+B140Q-13-F
+Schottky Diode
+0
+2
+2
+Diodes
+TB00150002BE
+TB001-500-02BE-2
+Integrated Circuit
+0
+2
+2
 Display
 AG12864E
 STN/FSTN LCD 128x64 dot https://www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php
@@ -56006,6 +56034,20 @@ heatsink
 0
 0
 0
+Ic
+SOT65P280X110-8N
+DDF0008A
+Integrated Circuit
+0
+8
+8
+Ic
+TO255P460X1020X2008-3P
+3-Pin TO-220
+Integrated Circuit
+0
+3
+3
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -82970,20 +83012,6 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
-Regulators
-L7805
-
-
-0
-3
-3
-Regulators
-TO255P1020X450X2000-3
-
-
-0
-3
-3
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
@@ -86645,6 +86673,13 @@ Logo WEEE
 0
 0
 0
+Terminal
+TB00150002BE
+TB001-500-02BE-2
+Integrated Circuit
+0
+2
+2
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
