@@ -2081,7 +2081,7 @@
     (property "Value" "L7805" (at 85.09 27.94 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Ic:TO255P460X1020X2008-3P" (at 85.725 35.56 0)
+    (property "Footprint" "Ic:L7805CD2T" (at 85.725 35.56 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf" (at 85.09 33.02 0)
