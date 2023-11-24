@@ -5,8 +5,8 @@
   (paper "A4")
 
   (title_block
-    (title "Delay guitar effect")
-    (date "2023-11-05")
+    (title "Delay Guitar Effect")
+    (date "2023-11-24")
     (rev "1")
     (comment 1 "Dawid Stawiszyński")
     (comment 2 "Przemko Wawrzyniak")
