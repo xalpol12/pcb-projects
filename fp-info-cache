@@ -1,15 +1,15 @@
-3398778567481
-Ic
-SOT65P280X110-8N
-DDF0008A
-Integrated Circuit
+3392010628882
+Audio_Module
+Reverb_BTDR-1H
+Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
+audio belton reverb
 0
-8
-8
-Ic
-TO255P460X1020X2008-3P
-3-Pin TO-220
-Integrated Circuit
+7
+7
+Audio_Module
+Reverb_BTDR-1V
+Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
+audio belton reverb
 0
-3
-3
+7
+7
