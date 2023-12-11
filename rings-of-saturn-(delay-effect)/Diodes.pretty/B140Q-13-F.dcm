@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP B140Q-13-F
-D Schottky Diodes & Rectifiers 1.0A SBR 40Vrrm 28Vr 0.5Vf 0.5mA 30A
-K
-F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-29/576590.pdf
-$ENDCMP
-#
-#End Doc Library

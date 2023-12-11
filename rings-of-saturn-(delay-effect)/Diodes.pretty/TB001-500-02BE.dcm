@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TB001-500-02BE
-D Fixed Terminal Blocks screw type, 5.00, horizontal, 2 poles, CUI Blue, slotted screw, PCB mount
-K
-F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/b931254781d34eecaec474c4ccd45807.pdf
-$ENDCMP
-#
-#End Doc Library
